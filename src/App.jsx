@@ -141,7 +141,7 @@ function App() {
           setCurrentView('lesson');
         }}
       />
-      <main className="flex-1 mr-64 p-6 overflow-auto">
+      <main className="flex-1 lg:mr-64 p-6 overflow-auto">
         {renderView()}
       </main>
     </div>

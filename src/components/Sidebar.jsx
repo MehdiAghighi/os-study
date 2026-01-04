@@ -143,7 +143,6 @@ function Sidebar({ currentView, setCurrentView, lessons, progress, onSelectLesso
         {/* Footer */}
         <div className="absolute bottom-0 left-0 right-0 p-4 border-t border-gray-800 bg-gray-900/95">
           <div className="text-center text-xs text-gray-500">
-            <p>امتحان: ۶ روز دیگر</p>
             <p className="mt-1">موفق باشید! 💪</p>
           </div>
         </div>
